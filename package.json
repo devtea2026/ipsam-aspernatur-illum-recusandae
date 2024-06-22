@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/ipsam-aspernatur-illum-recusandae",
-  "version": "3.7.43",
+  "version": "3.7.44",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -358,5 +358,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/ipsam-aspernatur-illum-recusandae/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
